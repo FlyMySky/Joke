@@ -86,5 +86,5 @@ p {
   height: 16px;
   padding: 0;
 }
-.video-js .vjs-big-play-button{}
+/* .video-js .vjs-big-play-button{} */
 </style>
